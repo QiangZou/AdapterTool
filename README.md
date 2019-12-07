@@ -22,40 +22,40 @@
 
 ## 解决流程
 ### 收集热门机型分辨率
-iPhone	11 Pro Max	1242	2688
-iPhone	11 Pro	1125	2436
-iPhone	11	828	1792
-iPhone	XR	828	1792
-iPhone	XS Max	1242	2688
-iPhone	XS	1125	2436
-iPhone	X	1125	2436
-iPhone	8 Plus	1080	1920
-iPhone	8	750	1334
-iPhone	7 Plus	1080	1920
-iPhone	7	750	1334
-iPhone	6 Plus	1242	2208
-iPhone	6	750	1334
-iPhone	5	640	1136		
-iPad	mini 2	1536	2048
-iPad	mini 3	1536	2048
-iPad	mini 4	1536	2048
-iPad	(第五代)	1536	2048
-iPad	(第六代)	1536	2048
-iPad	Air (第一代)	1536	2048
-iPad	Air 2	1536	2048
-iPad	Pro 9.7英寸	1536	2048
-iPad	Pro 10.5英寸	1668	2224
-iPad	Pro 12.9英寸 (第一代)	2048	2732
-iPad	Pro 12.9英寸 (第二代)	2048	2732			
-iPad	mini 5	1536	2048
-iPad	(第七代)	1620	2160
-iPad	Air 3	1668	2224
-iPad	Pro 11英寸	1668	2388
-iPad	Pro 12.9英寸 (第三代)	2048	2732
+- iPhone	11 Pro Max	1242	2688
+- iPhone	11 Pro	1125	2436
+- iPhone	11	828	1792
+- iPhone	XR	828	1792
+- iPhone	XS Max	1242	2688
+- iPhone	XS	1125	2436
+- iPhone	X	1125	2436
+- iPhone	8 Plus	1080	1920
+- iPhone	8	750	1334
+- iPhone	7 Plus	1080	1920
+- iPhone	7	750	1334
+- iPhone	6 Plus	1242	2208
+- iPhone	6	750	1334
+- iPhone	5	640	1136		
+- iPad	mini 2	1536	2048
+- iPad	mini 3	1536	2048
+- iPad	mini 4	1536	2048
+- iPad	(第五代)	1536	2048
+- iPad	(第六代)	1536	2048
+- iPad	Air (第一代)	1536	2048
+- iPad	Air 2	1536	2048
+- iPad	Pro 9.7英寸	1536	2048
+- iPad	Pro 10.5英寸	1668	2224
+- iPad	Pro 12.9英寸 (第一代)	2048	2732
+- iPad	Pro 12.9英寸 (第二代)	2048	2732			
+- iPad	mini 5	1536	2048
+- iPad	(第七代)	1620	2160
+- iPad	Air 3	1668	2224
+- iPad	Pro 11英寸	1668	2388
+- iPad	Pro 12.9英寸 (第三代)	2048	2732
 
 ### 收集热门异性屏机型蒙版
 例如
-![](https://raw.githubusercontent.com/QiangZou/AdapterTool/master/Assets/Editor%20Default%20Resources/iPhone%20XS_1.png)
+![](https://i.imgur.com/zDXg1jl.png)
 红色区域为不可见、不可点击
 
 ### 代码设计流程
