@@ -76,3 +76,9 @@
 - 查看桌面截图文件夹
 
 
+## 效果展示
+
+- 1136x640分辨率
+![1136x640](https://raw.githubusercontent.com/QiangZou/AdapterTool/master/docs/1136x640.png)
+- iPhone X 2436x1125分辨率
+![iPhone X 2436x1125](https://raw.githubusercontent.com/QiangZou/AdapterTool/master/docs/iPhone%20X%202436x1125.png)
