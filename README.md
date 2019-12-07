@@ -55,7 +55,7 @@
 
 ### 收集热门异性屏机型蒙版
 例如
-![](https://i.imgur.com/zDXg1jl.png)
+![](https://raw.githubusercontent.com/QiangZou/AdapterTool/master/Assets/Editor%20Default%20Resources/iPhone%20XS_1.png)
 红色区域为不可见、不可点击
 
 ### 代码设计流程
