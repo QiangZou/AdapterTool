@@ -66,10 +66,10 @@
 - 一键化
 
 
-##Github地址
+## Github地址
 [https://github.com/QiangZou/AdapterTool](https://github.com/QiangZou/AdapterTool "https://github.com/QiangZou/AdapterTool")
 
-##使用方式
+## 使用方式
 - 运行Unity
 - 打开你的界面
 - 点击菜单栏 Tool -> AdapterTool -> 一键生成到桌面
